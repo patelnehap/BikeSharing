@@ -8,19 +8,19 @@ Tableau is a powerful analytical and visualization tool that provides easy to un
 
 ## Results
 
-Link to Tableau Public Dashboard :https://public.tableau.com/app/profile/neha.patel2648/viz/NYC_Citibike_Challenge_1/Story1
+<a href="https://public.tableau.com/app/profile/neha.patel2648/viz/NYC_Citibike_Challenge_1/Story1/"> Link to Tableau Public Dashboard </a>
 
 Trips by Gender (Peak times for Male riders are 6am-10am and 5pm-7pm)
 
-Img
+<img  width="240px" src="https://github.com/patelnehap/BikeSharing/blob/main/Images/1_Ttl_Gnd_Trips.JPG" />
 
 Trips by Weekday per Hour (Workday trips are heavier during peak hours for both Male and Female bike Riders)
 
-Img
+<img  width="240px" src="https://github.com/patelnehap/BikeSharing/blob/main/Images/2_Weekday.JPG" />
 
 Bike Repairs(Bike maintenance is a must for the business to avoid unwanted expenses and loss in business. As per the chart bike repairs are best during off peak hrs like 2am-5am).
 
-Img
+<img  width="240px" src="https://github.com/patelnehap/BikeSharing/blob/main/Images/3_BikeRepairs.JPG" />
 
 ## Summary
 
